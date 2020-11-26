@@ -1,3 +1,5 @@
+# Known Issues
+Error when using new 'react-jsx' TypeScript transform. set vscode workspace typescript version to 4.1.2. [jsx lint error](https://github.com/facebook/create-react-app/issues/10144#issuecomment-733278351).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
