@@ -5,7 +5,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
-
+import './App.less';
 import Home from './pages/home';
 
 // This site has 3 pages, all of which are rendered
